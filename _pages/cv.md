@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Nagamitesh Nagamuralee - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [nn293@cornell.edu](mailto:nn293@cornell.edu) | | | **Phone:** +248 635 1576
 
 ---
 
@@ -20,11 +20,11 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.6/4.0 | Graduation: May, 2027
 
 - **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+  Lexington High School - Lexington, MA 
+  Graduation: [June, 2023]
 
 ---
 
