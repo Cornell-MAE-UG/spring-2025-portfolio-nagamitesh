@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nagamitesh Nagamuralee - Resume
-permalink: /resume/
+permalink: /cv/
 ---
 ## Resume
 
