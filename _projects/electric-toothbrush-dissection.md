@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Electric Toothbrush Dissection
-description: Advanced CAD Project
+description: System Dynamical Dissection
 technologies: [System Dynamics, Matlab]
 image: /assets/images/electric-toothbrush-dissection.jpg
 ---
@@ -10,7 +10,8 @@ For MAE 3260 System Dynamics, we did a project where we took apart an electric t
 
 [Download our Project]({{ "/assets/electric-toothbrush.pdf" | relative_url }}) in PDF format.
 
-![Photo of Electric Toothbrush Taken Apart]({{ "/assets/images/electric-toothbrush-dissection.png" | relative_url }}) 
+<!-- ![Photo of Electric Toothbrush Taken Apart]({{ "/assets/images/electric-toothbrush-dissection.png" | relative_url }}) -->
+
 
 
 
